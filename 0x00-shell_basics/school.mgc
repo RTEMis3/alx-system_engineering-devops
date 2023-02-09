@@ -1,3 +1,2 @@
-0:      cannot open `0' (No such file or directory)
-s:      cannot open `s' (No such file or directory)
-School: cannot open `School' (No such file or directory)
+#!/bin/bash
+file 0 s SCHOOL
